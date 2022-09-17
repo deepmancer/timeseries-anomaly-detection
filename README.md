@@ -10,7 +10,7 @@
 
 ## Detail
 - Classic Models
-              - PCA
-              - KMeans
-              - IsolatedForest
-              - Gaussian Mixture Model
+  - PCA
+  - KMeans
+  - IsolatedForest
+  - Gaussian Mixture Model
