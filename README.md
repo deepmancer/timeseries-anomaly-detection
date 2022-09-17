@@ -14,7 +14,7 @@
   --KMeans
   --IsolatedForest
   --Gaussian mixture model
-Markup : * Bullet list
-          * Nested bullet
-              * Sub-nested bullet etc
-      * Bullet list item 2
+- Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
