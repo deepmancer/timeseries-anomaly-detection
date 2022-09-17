@@ -1,4 +1,4 @@
-# # Anomaly detection task for timeseries with classic models and RNN
+# Anomaly detection task for timeseries with classic models and RNN
 
 
 ## Prerequisites
@@ -10,7 +10,7 @@
 
 ## Detail
 -Classic Models:
---PCA
---KMeans
---IsolatedForest
---Gaussian mixture model
+  --PCA
+  --KMeans
+  --IsolatedForest
+  --Gaussian mixture model
